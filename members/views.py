@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def members(request):
-    return HttpResponse("Hello WOrld")
+    return HttpResponse("Hello WOrld. we are gonna push more code this week")
